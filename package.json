@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Andrew Watton",
-	"description": "API & Microservices Free Code Camp Excercises"
+	"description": "API & Microservices Free Code Camp Excercises",
+	"keywords": ["freecodecamp", "microservices", "api"]
 }
