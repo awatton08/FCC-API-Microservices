@@ -13,5 +13,7 @@
 	},
 	"author": "Andrew Watton",
 	"description": "API & Microservices Free Code Camp Excercises",
+	"license": "MIT",
 	"keywords": ["freecodecamp", "microservices", "api"]
+	
 }
