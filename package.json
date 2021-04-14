@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Andrew Watton"
+	"author": "Andrew Watton",
+	"description": "API & Microservices Free Code Camp Excercises"
 }
